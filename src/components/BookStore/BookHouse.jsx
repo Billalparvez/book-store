@@ -2,7 +2,7 @@ import { useState } from "react";
 import { bookData } from "../../../public/data";
 import Search from "./Search";
 import SingleCard from "./SingleCard";
-// main
+
 export default function BookHouse() {
   const [books, setBooks] = useState(bookData);
   console.log(books);
