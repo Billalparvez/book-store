@@ -15,7 +15,7 @@ export default function Search({ onSearch }) {
             <h2 className="mb-6 font-['Playfair_Display'] text-3xl font-bold lg:text-4xl">
               Trending Books of the Year
             </h2>
-            {/* <!-- Search Box --> */}
+            {/* <!-- Search form --> */}
             <form>
               <div className="flex">
                 <div className="relative w-full overflow-hidden rounded-lg border-2 border-[#1C4336] text-[#1C4336] md:min-w-[380px] lg:min-w-[440px]">
